@@ -20,9 +20,9 @@ public class CharacterLiterals {
 		System.out.println("<-");
 		
 		System.out.println('\u0041'); // to get the unicode go to https://unicode-table.com/en, click the desired character to get the unicode value    u0041 -A
-		System.out.println(); // click Control Character & look for DEVANAGARI
-		System.out.println();
-		System.out.println();
+		System.out.println('\u096A'); // click Control Character & look for DEVANAGARI (4 in devanagari)
+		System.out.println('\u23F3'); // click Control Character & look for Miscellaneous Technical (hourglass symbol)
+		System.out.println('\u20B1'); // click Control Character & look for Currency Symbols
 		
 		
 		
